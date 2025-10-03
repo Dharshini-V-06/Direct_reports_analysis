@@ -1,0 +1,101 @@
+employee_id,position,managers_id
+1001,Analytics Manager,1013.0
+1002,Data Engineer,1007.0
+1003,Data Engineer,1001.0
+1004,Database Developer,1017.0
+1005,Data Analyst,1001.0
+1006,Data Engineer,1017.0
+1007,Data Engineering Manager,1013.0
+1008,Database Developer,1001.0
+1009,Data Engineer,1007.0
+1010,Data Scientist,1017.0
+1011,Data Analyst,1001.0
+1012,Data Engineer,1007.0
+1013,CTO,
+1014,Data Scientist,1017.0
+1015,Data Analyst,1001.0
+1016,Data Scientist,1017.0
+1017,Data Science Manager,1013.0
+1018,Database Developer,1007.0
+1019,Data Analyst,1001.0
+2001,Database Developer,1001.0
+2002,Data Engineer,1007.0
+2003,Data Analyst,1001.0
+2004,Database Developer,1007.0
+2005,Data Engineer,1007.0
+2006,Data Engineer,1007.0
+2007,Data Engineer,1001.0
+2008,Data Engineer,1007.0
+2009,CTO,
+2010,Data Engineering Manager,1013.0
+2011,Data Engineer,1007.0
+2012,Analytics Manager,1013.0
+2013,Data Science Manager,1013.0
+2014,Data Science Manager,1013.0
+2015,Analytics Manager,1013.0
+2016,Database Developer,1001.0
+2017,Data Analyst,1001.0
+2018,Data Engineer,1007.0
+2019,Data Science Manager,1013.0
+2020,Data Engineering Manager,1013.0
+2021,Data Engineer,1001.0
+2022,Database Developer,1017.0
+2023,Data Engineering Manager,1013.0
+2024,Database Developer,1017.0
+2025,Data Scientist,1017.0
+2026,Data Science Manager,1013.0
+2027,Database Developer,1017.0
+2028,Database Developer,1007.0
+2029,Data Engineer,1007.0
+2030,Data Analyst,1001.0
+2031,Data Analyst,1001.0
+2032,Data Engineer,1007.0
+2033,CTO,
+2034,Database Developer,1001.0
+2035,Data Engineer,1007.0
+2036,Data Engineer,1007.0
+2037,Data Engineer,1017.0
+2038,Data Analyst,1001.0
+2039,Database Developer,1001.0
+2040,Data Engineer,1001.0
+2041,Data Engineer,1007.0
+2042,Data Scientist,1017.0
+2043,Data Engineer,1017.0
+2044,Data Science Manager,1013.0
+2045,Database Developer,1017.0
+2046,CTO,
+2047,Data Scientist,1017.0
+2048,Data Scientist,1017.0
+2049,Data Scientist,1017.0
+2050,Database Developer,1001.0
+2051,Data Scientist,1017.0
+2052,Data Engineer,1007.0
+2053,Data Engineer,1007.0
+2054,Analytics Manager,1013.0
+2055,Data Engineering Manager,1013.0
+2056,Data Analyst,1001.0
+2057,Data Scientist,1017.0
+2058,Data Engineer,1017.0
+2059,Data Scientist,1017.0
+2060,Data Scientist,1017.0
+2061,Database Developer,1017.0
+2062,Data Engineer,1017.0
+2063,Data Scientist,1017.0
+2064,Data Analyst,1001.0
+2065,Data Science Manager,1013.0
+2066,Data Engineer,1007.0
+2067,Database Developer,1007.0
+2068,Analytics Manager,1013.0
+2069,Data Scientist,1017.0
+2070,Data Engineer,1007.0
+2071,Analytics Manager,1013.0
+2072,Data Engineer,1007.0
+2073,Data Engineer,1007.0
+2074,Data Engineering Manager,1013.0
+2075,Data Engineer,1007.0
+2076,Database Developer,1007.0
+2077,Data Scientist,1017.0
+2078,Database Developer,1007.0
+2079,Data Scientist,1017.0
+2080,Data Scientist,1017.0
+2081,Data Analyst,1001.0
