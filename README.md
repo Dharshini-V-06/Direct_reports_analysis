@@ -100,7 +100,6 @@ Model:
 
 * **Python**: pandas, numpy, matplotlib, seaborn
 * **SymPy**: for symbolic calculus
-* **NetworkX** (optional): for hierarchy visualization
 * **Jupyter Notebook / VS Code**
 
 ---
