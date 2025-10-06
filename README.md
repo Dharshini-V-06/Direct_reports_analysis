@@ -1,6 +1,6 @@
-# 📊 Direct Reports Analysis
+#  Direct Reports Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes the **Direct Reports dataset** to understand organizational structure, reporting hierarchies, and team dynamics. The workflow covers **basic data understanding, EDA, statistics, NumPy & linear algebra, calculus, feature engineering, and SQL-like queries in Pandas**.
 
@@ -8,7 +8,7 @@ Dataset link: [Direct Reports Dataset](https://drive.google.com/file/d/1dye6S7qP
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 
 The dataset contains employee and manager relationships.
 
@@ -20,7 +20,7 @@ The dataset contains employee and manager relationships.
 
 ---
 
-## 🛠️ Project Steps
+##  Project Steps
 
 ### **Part 1 – Basic Data Understanding (Pandas)**
 
@@ -96,7 +96,7 @@ Model:
 
 ---
 
-## 📊 Tools & Libraries
+##  Tools & Libraries
 
 * **Python**: pandas, numpy, matplotlib, seaborn
 * **SymPy**: for symbolic calculus
